@@ -74,7 +74,7 @@ O **Assistente ChargeGrid** é um chatbot baseado em inteligência artificial qu
 
 ##  Fluxograma de Funcionamento
 
-O fluxograma completo e interativo está disponível no arquivo [`chargegrid_fluxograma.html`](./chargegrid_fluxograma.html) na raiz deste repositório.
+O fluxograma completo e interativo está disponível no arquivo [`chargegrid_premium_flow.png`](./chargegrid_fluxograma.html) na raiz deste repositório.
 
 ### Resumo do Fluxo
 
