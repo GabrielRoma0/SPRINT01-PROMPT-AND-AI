@@ -196,7 +196,7 @@ jargão técnico ou regulatório.
 ```
 /
 ├── README.md                     ← Este arquivo
-├── chargegrid_fluxograma.html    ← Fluxograma interativo do chatbot
+├── chargegrid_premium_flow.png    ← Fluxograma interativo do chatbot
 └── sprint1/
     ├── system_prompt.txt         ← System prompt completo
     └── modelo_de_teste.md        ← Perguntas e respostas esperadas
